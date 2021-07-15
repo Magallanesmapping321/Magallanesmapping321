@@ -12,3 +12,5 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: i am useless :(;
 - 📫 How to reach me: https://discord.gg/wafVqZUzGz;
+
+⭐️ This readme is from onimur, shoutouts 2 him
