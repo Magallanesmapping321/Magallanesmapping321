@@ -25,7 +25,7 @@ heres le funny
 ## Open Source Work Stats
 
 
-![image](https://raw.githubusercontent.com/Magallanesmapping321/Magallanesmapping321/main/stats.PNG)
+![image](https://raw.githubusercontent.com/Magallanesmapping321/Magallanesmapping321/main/stats.PNG) ![image](https://raw.githubusercontent.com/Magallanesmapping321/Magallanesmapping321/main/langs.PNG)
 
 ## README Credits
 ⭐️ This readme is from onimur, shoutouts 2 him
